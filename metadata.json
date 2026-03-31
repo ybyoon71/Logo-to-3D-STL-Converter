@@ -1,0 +1,5 @@
+{
+  "name": "Logo to 3D STL Converter",
+  "description": "Upload any logo (PNG, JPG, SVG) to generate a 3D printable STL pendant file with customizable base and extrusion settings.",
+  "requestFramePermissions": []
+}
